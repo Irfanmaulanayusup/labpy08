@@ -5,7 +5,7 @@ Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
 # ```Program Input Nilai```
 ## Diagram class
-![gambar 7](https://github.com/user-attachments/assets/af0f7ee4-a3ae-490f-a137-49e6b153468f)
+![gambar 7](diagramclass.jpg)
 ## Flowchart
 ![gambar 5](flcrt1.png)
 ![gambar 5](flcrt2.png)
