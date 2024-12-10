@@ -116,15 +116,20 @@ Mata kuliah : Bahasa Pemrograman <p>
        if __name__ == "__main__":
            main()
 ```
+   -Fungsi utama main: Ini adalah fungsi kunci yang mengoperasikan keseluruhan program.
+   
+-Variabel students: Digunakan untuk menyimpan kumpulan objek Student.
 
-   - Fungsi ```main``` adalah fungsi utama yang menjalankan program.
-   - Variabel ```students``` menyimpan daftar objek ```Student```.
-   - Program menampilkan menu dan menangani pilihan pengguna:
-     - **Tambah (```t```)**: Menambah data mahasiswa baru ke dalam daftar ```students```.
-     - **Lihat (```l```)**: Menampilkan daftar mahasiswa.
-     - **Ubah (```u```)**: Mengubah data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa diperbarui dengan data baru.
-     - **Hapus (```h```)**: Menghapus data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa dihapus dari daftar students.
-     - **Keluar (```k```)**: Keluar dari program.
+-Program ini: Menampilkan menu dan mengelola opsi yang dipilih oleh pengguna:
+
+-Tambah (t): Menambahkan data mahasiswa baru ke dalam daftar students.
+
+-Lihat (l): Menampilkan seluruh daftar mahasiswa.
+
+-Ubah (u): Memodifikasi data mahasiswa berdasarkan nama yang diberikan. Jika nama tersebut ditemukan, data mahasiswa diperbarui dengan informasi baru.
+
+-Hapus (h): Menghapus data mahasiswa berdasarkan nama yang diberikan. Jika nama tersebut ditemukan, data mahasiswa akan dihapus dari daftar students.
+
+-Keluar (k): Mengakhiri program.
 ## Output Program
-![gambar 3](https://github.com/user-attachments/assets/a631119d-8212-4e08-990a-e6b11842ccbf)
-![gambar 4](https://github.com/user-attachments/assets/9f731c3a-bd5b-41f2-87d0-269e325957a3)
+![gambar 3](hsilprogram.png)
